@@ -1,0 +1,17 @@
+First_Name Last_Name, Title, Extension, Email
+AUTHORS:
+ 
+AmyB aker,Fi nanceChair,x345,abaker@ ourcompany. com
+ 
+Chris Do naldso n,AccountingDir. ,x621,cd onaldso n@ourcompany. com
+ 
+ErinFr eeman,Sr . VP,x879,efreeman@ ourcompany. com
+ 
+AUTHORS:
+ 
+AmyB aker,Fi nanceChair,x345,abaker@ ourcompany. com
+ 
+Chris Do naldso n,AccountingDir. ,x621,cd onaldso n@ourcompany. com
+ 
+ErinFr eeman,Sr . VP,x879,efreeman@ ourcompany. com
+ 
